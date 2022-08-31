@@ -1,0 +1,24 @@
+{
+    "messages": {
+      "12": {
+        "message": "Hello, I want to rent your boat",
+        "tenantId": "1505"
+      },
+      "14": {
+        "message": "Did you receive my message?",
+        "tenantId": "1505"
+      },
+      "23": {
+        "message": "Yes. Sorry. For which dates?",
+        "ownerId": "2546"
+      },
+      "35": {
+        "message": "The 15 of April 2018 to the 20 of April 2018.",
+        "tenantId": "1505"
+      },
+      "48": {
+        "message": "Ok, no problem, let me send you a custom offer!",
+        "ownerId": "2546"
+      }
+    }
+}
